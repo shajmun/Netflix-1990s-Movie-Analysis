@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project performs an exploratory data analysis on the Netflix dataset, with a specific focus on movies released in the 1990s. The goal is to uncover insights about movie durations and genres from that nostalgic decade. This was a project to practice and showcase my data analysis skills using Python and pandas.
+This project is part of Associate Data Scienctist Track by Datacamp. This project performs an exploratory data analysis on the Netflix dataset, with a specific focus on movies released in the 1990s. The goal is to uncover insights about movie durations and genres from that nostalgic decade. This was a project to practice and showcase my data analysis skills using Python and pandas.
 
 ---
 
